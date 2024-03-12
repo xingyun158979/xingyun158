@@ -53,8 +53,6 @@ public class Main0_test {
         Txt_IO.writeTxt(ans, ansFileName);
     }
 
-
-
     @Test
     public void origDis10Test(){
         DecimalFormat df = new DecimalFormat("#0.00");
